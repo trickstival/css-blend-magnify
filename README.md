@@ -1,4 +1,4 @@
-# see-ants
+# CSS Blend Magnify
 [Demo here](https://cranky-hermann-a850ab.netlify.com/)
 ## Project setup
 ```
