@@ -33,7 +33,6 @@ export default {
         x = evt.pageX
         y = evt.pageY
       }
-      console.log('move', evt.pageX)
       this.left = x - 130
       this.top = y - 80
     }
